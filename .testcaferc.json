@@ -9,9 +9,5 @@
     "singleFile": true,
     "failedOnly": true,
     "pathPattern": "${TEST_INDEX}/${USERAGENT}/${FILE_INDEX}.mp4"
-  },
-  "videoEncodingOptions": {
-    "r": 20,
-    "aspect": "4:3"
   }
 }
